@@ -306,5 +306,6 @@ Initial Requirements Gathering
 
 ## Team Collaboration & Git Workflow
 
-For detailed Git commands simulating the 3-member team branching, commits, pull requests, and merges, refer to:
-- [`GIT_WORKFLOW.md`](file:///e:/SW%20Pr2/GIT_WORKFLOW.md)
+For detailed 3-member work division, Git branching, pull requests, and teacher evaluation guide, refer to:
+- [`TEAM_CONTRIBUTION_GUIDE.md`](TEAM_CONTRIBUTION_GUIDE.md)
+- [`GIT_WORKFLOW.md`](GIT_WORKFLOW.md)
